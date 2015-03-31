@@ -1,0 +1,11 @@
+{
+  "name": "wpreleases",
+  "version": "0.0.1",
+  "description": "Scrape WordPress Releases",
+  "main": "scraper.js",
+  "author": "Urban Sanden",
+  "dependencies": {
+    "request": "latest",
+    "cheerio": "latest"
+  },
+}
