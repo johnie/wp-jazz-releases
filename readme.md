@@ -2,8 +2,21 @@
 
 Scrape WordPress releases using Node.js
 
-Work in progress...
+### What?
 
-#### Todo
-- [x] Use Google AJAX Search API for quering public domain images
-- [ ] Better image downloads, more error handling
+✔ Scrape releases from WP Release history
+✔ Save data as JSON ``data.json``
+✔ Download images with the Jazz Profiles using Google Image Search. (Only Public Domain images)
+
+### Use
+
+Run scraper
+
+	node scraper.js
+
+Miniy JPG images
+	
+	gulp
+
+#### Changelog
+- 0.1.0: Only download images if the don't exist in path

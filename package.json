@@ -1,6 +1,6 @@
 {
   "name": "wpreleases",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Scrape WordPress Releases",
   "main": "scraper.js",
   "author": "Urban Sanden",
@@ -8,4 +8,9 @@
     "request": "latest",
     "cheerio": "latest"
   },
+  "devDependencies": {
+    "gulp": "~3.8.11",
+    "imagemin-jpegoptim": "~4.0.0",
+    "imagemin": "~3.1.0"
+  }
 }
