@@ -4,9 +4,9 @@ Scrape WordPress releases using Node.js
 
 ### What?
 
-✔ Scrape releases from WP Release history
-✔ Save data as JSON ``data.json``
-✔ Download images with the Jazz Profiles using Google Image Search. (Only Public Domain images)
+- ✔ Scrape releases from WP Release history
+- ✔ Save data as JSON ``data.json``
+- ✔ Download images with the Jazz Profiles using Google Image Search. (Only Public Domain images)
 
 ### Use
 
