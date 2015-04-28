@@ -1,12 +1,12 @@
 # WP Releases
 
-Get WordPress release history using Node.js
+Get [WordPress](https://codex.wordpress.org/WordPress_Versions) release history using [Node.js](https://nodejs.org/)
 
 ### What?
 
 - Scrape releases from WP Release history
-- Save data as JSON ``data.json``
-- Download images with the jazz profiles searching Google Image Search for Public Domain images.
+- Save data as ``data.json``
+- Download images searching [Google Image Search](https://images.google.com/) for Public Domain images.
 
 ### Use
 
@@ -19,5 +19,6 @@ Miniy JPG images
 	gulp
 
 #### Changelog
+- 0.1.2: Minor
 - 0.1.1: Change image file names. Added license
 - 0.1.0: Only download images if the don't exist in path
