@@ -223,5 +223,14 @@
         "changelog": "https://codex.wordpress.org/Changelog/4.1",
         "blog": "http://wordpress.org/news/2014/12/dinah/",
         "image": "Dinah+Washington.jpg"
+    },
+    {
+        "version": "4.2",
+        "link": "https://codex.wordpress.org/Version_4.2",
+        "date": "April 23, 2015",
+        "musician": "Bud Powell",
+        "changelog": "https://codex.wordpress.org/index.php?title=Changelog/4.2&action=edit&redlink=1",
+        "blog": "http://wordpress.org/news/2015/04/powell/",
+        "image": "Bud+Powell.jpg"
     }
 ]

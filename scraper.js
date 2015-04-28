@@ -1,8 +1,14 @@
-var fs = require('fs');
-var request = require('request');
-var cheerio = require('cheerio');
+/*-------------------------------------------------------------------
+WP Releases
+@urre
+-------------------------------------------------------------------*/
+
+var fs         = require('fs');
+var request    = require('request');
+var cheerio    = require('cheerio');
+
+var url        = 'https://codex.wordpress.org/WordPress_Versions';
 var jazzgreats = [];
-var url = 'https://codex.wordpress.org/WordPress_Versions';
 
 request(url, function(error, response, html) {
 	if(!error){
@@ -46,7 +52,7 @@ request(url, function(error, response, html) {
 						fs.exists('./images/'+info.musician.replace(/ /g, '+')+'.jpg', function(exists) {
 						  if (!exists) {
 						  	if(body.responseData.results[0]) {
-						  		download(body.responseData.results[0].url, info.musician.replace(/ /g, '+')+'.jpg', function(){});
+						  		download(body.responseData.results[0].url, info.musician.replace(/ /g, '-')+'.jpg', function(){});
 						  	}
 						  }
 						});
