@@ -19,6 +19,7 @@ Miniy JPG images
 	gulp
 
 #### Changelog
+- 0.1.3: Fixed a typo in image file names in json file
 - 0.1.2: Minor
 - 0.1.1: Change image file names. Added license
 - 0.1.0: Only download images if the don't exist in path

@@ -49,7 +49,7 @@ request(url, function(error, response, html) {
 
 					if (!error && response.statusCode === 200) {
 						
-						fs.exists('./images/'+info.musician.replace(/ /g, '+')+'.jpg', function(exists) {
+						fs.exists('./images/'+info.musician.replace(/ /g, '-')+'.jpg', function(exists) {
 						  if (!exists) {
 						  	if(body.responseData.results[0]) {
 						  		download(body.responseData.results[0].url, info.musician.replace(/ /g, '-')+'.jpg', function(){});
@@ -60,7 +60,7 @@ request(url, function(error, response, html) {
 				})
 				
 				// Add image name to info object
-				info.image = info.musician.replace(/ /g, '+')+'.jpg';
+				info.image = info.musician.replace(/ /g, '-')+'.jpg';
 
 				// Push to Jazzgreats
 				jazzgreats.push(info);
