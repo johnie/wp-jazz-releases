@@ -1,16 +1,17 @@
 {
-  "name": "wpreleases",
-  "version": "0.1.0",
-  "description": "Scrape WordPress Releases",
+  "name": "wpjazzreleases",
+  "version": "0.1.4",
+  "description": "Scrape WP Release history for releases that are named in honor of jazz musicians.",
   "main": "scraper.js",
   "author": "Urban Sanden",
+  "licence": "MIT",
   "dependencies": {
     "request": "latest",
     "cheerio": "latest"
   },
   "devDependencies": {
-    "gulp": "~3.8.11",
-    "imagemin-jpegoptim": "~4.0.0",
-    "imagemin": "~3.1.0"
+    "gulp": "*",
+    "imagemin-jpegoptim": "*",
+    "imagemin": "*"
   }
 }
