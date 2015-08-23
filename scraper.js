@@ -3,9 +3,10 @@ WP Jazz Releases
 @urre
 -------------------------------------------------------------------*/
 
-var fs         = require('fs');
-var request    = require('request');
-var cheerio    = require('cheerio');
+var fs         			= require('fs');
+var request    			= require('request');
+var cheerio    			= require('cheerio');
+var spotifyScraper	= require('./spotify');
 
 var url        = 'https://codex.wordpress.org/WordPress_Versions';
 var jazzgreats = [];
@@ -26,7 +27,8 @@ request(url, function(error, response, html) {
 				musician: release.find('td').eq(2).text().replace(/(\r\n|\n|\r)/gm,"").trim(),
 				changelog: 'https://codex.wordpress.org'+release.find('td').eq(3).children('a').attr('href'),
 				blog: release.find('td').eq(4).children('a').attr('href'),
-				image: ''
+				image: '',
+				spotify: ''
 			}
 
 			// Download image from Google Search
@@ -61,6 +63,10 @@ request(url, function(error, response, html) {
 				
 				// Add image name to info object
 				info.image = info.musician.replace(/ /g, '-')+'.jpg';
+
+				spotifyScraper(info.musician, function (url) {
+					info.spotify = url;
+				});
 
 				// Push to Jazzgreats
 				jazzgreats.push(info);

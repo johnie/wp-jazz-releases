@@ -6,7 +6,8 @@
         "musician": "Miles Davis",
         "changelog": "https://codex.wordpress.org/Changelog/1.0",
         "blog": "http://wordpress.org/news/2004/01/wordpress-10/",
-        "image": "Miles-Davis.jpg"
+        "image": "Miles-Davis.jpg",
+        "spotify": ""
     },
     {
         "version": "1.0.2",
@@ -15,7 +16,8 @@
         "musician": "Art Blakey",
         "changelog": "https://codex.wordpress.org/Changelog/1.0.2",
         "blog": "http://wordpress.org/news/2004/03/in-case-you-havent-heard/",
-        "image": "Art-Blakey.jpg"
+        "image": "Art-Blakey.jpg",
+        "spotify": ""
     },
     {
         "version": "1.2",
@@ -24,7 +26,8 @@
         "musician": "Charles Mingus",
         "changelog": "https://codex.wordpress.org/Changelog/1.2",
         "blog": "http://wordpress.org/news/2004/05/heres-the-beef/",
-        "image": "Charles-Mingus.jpg"
+        "image": "Charles-Mingus.jpg",
+        "spotify": ""
     },
     {
         "version": "1.5",
@@ -33,7 +36,8 @@
         "musician": "Billy Strayhorn",
         "changelog": "https://codex.wordpress.org/Changelog/1.5",
         "blog": "http://wordpress.org/news/2005/02/strayhorn/",
-        "image": "Billy-Strayhorn.jpg"
+        "image": "Billy-Strayhorn.jpg",
+        "spotify": ""
     },
     {
         "version": "2.0",
@@ -42,7 +46,8 @@
         "musician": "Duke Ellington",
         "changelog": "https://codex.wordpress.org/Changelog/2.0",
         "blog": "http://wordpress.org/news/2005/12/wp2/",
-        "image": "Duke-Ellington.jpg"
+        "image": "Duke-Ellington.jpg",
+        "spotify": ""
     },
     {
         "version": "2.1",
@@ -51,7 +56,8 @@
         "musician": "Ella Fitzgerald",
         "changelog": "https://codex.wordpress.org/Changelog/2.1",
         "blog": "http://wordpress.org/news/2007/01/ella-21/",
-        "image": "Ella-Fitzgerald.jpg"
+        "image": "Ella-Fitzgerald.jpg",
+        "spotify": ""
     },
     {
         "version": "2.2",
@@ -60,7 +66,8 @@
         "musician": "Stan Getz",
         "changelog": "https://codex.wordpress.org/Changelog/2.2",
         "blog": "http://wordpress.org/news/2007/05/wordpress-22/",
-        "image": "Stan-Getz.jpg"
+        "image": "Stan-Getz.jpg",
+        "spotify": ""
     },
     {
         "version": "2.3",
@@ -69,7 +76,8 @@
         "musician": "Dexter Gordon",
         "changelog": "https://codex.wordpress.org/Changelog/2.3",
         "blog": "http://wordpress.org/news/2007/09/wordpress-23/",
-        "image": "Dexter-Gordon.jpg"
+        "image": "Dexter-Gordon.jpg",
+        "spotify": ""
     },
     {
         "version": "2.5",
@@ -78,7 +86,8 @@
         "musician": "Michael Brecker",
         "changelog": "https://codex.wordpress.org/Changelog/2.5",
         "blog": "http://wordpress.org/news/2008/03/wordpress-25-brecker/",
-        "image": "Michael-Brecker.jpg"
+        "image": "Michael-Brecker.jpg",
+        "spotify": ""
     },
     {
         "version": "2.6",
@@ -87,7 +96,8 @@
         "musician": "McCoy Tyner",
         "changelog": "https://codex.wordpress.org/Changelog/2.6",
         "blog": "http://wordpress.org/news/2008/07/wordpress-26-tyner/",
-        "image": "McCoy-Tyner.jpg"
+        "image": "McCoy-Tyner.jpg",
+        "spotify": ""
     },
     {
         "version": "2.7",
@@ -96,7 +106,8 @@
         "musician": "John Coltrane",
         "changelog": "https://codex.wordpress.org/Changelog/2.7",
         "blog": "http://wordpress.org/news/2008/12/coltrane/",
-        "image": "John-Coltrane.jpg"
+        "image": "John-Coltrane.jpg",
+        "spotify": ""
     },
     {
         "version": "2.8",
@@ -105,7 +116,8 @@
         "musician": "Chet Baker",
         "changelog": "https://codex.wordpress.org/Changelog/2.8",
         "blog": "http://wordpress.org/news/2009/06/wordpress-28/",
-        "image": "Chet-Baker.jpg"
+        "image": "Chet-Baker.jpg",
+        "spotify": ""
     },
     {
         "version": "2.9",
@@ -114,7 +126,8 @@
         "musician": "Carmen McRae",
         "changelog": "https://codex.wordpress.org/Changelog/2.9",
         "blog": "http://wordpress.org/news/2009/12/wordpress-2-9/",
-        "image": "Carmen-McRae.jpg"
+        "image": "Carmen-McRae.jpg",
+        "spotify": ""
     },
     {
         "version": "3.0",
@@ -123,7 +136,8 @@
         "musician": "Thelonious Monk",
         "changelog": "https://codex.wordpress.org/Changelog/3.0",
         "blog": "http://wordpress.org/news/2010/06/thelonious/",
-        "image": "Thelonious-Monk.jpg"
+        "image": "Thelonious-Monk.jpg",
+        "spotify": ""
     },
     {
         "version": "3.1",
@@ -132,7 +146,8 @@
         "musician": "Django Reinhardt",
         "changelog": "https://codex.wordpress.org/Changelog/3.1",
         "blog": "http://wordpress.org/news/2011/02/threeone/",
-        "image": "Django-Reinhardt.jpg"
+        "image": "Django-Reinhardt.jpg",
+        "spotify": ""
     },
     {
         "version": "3.2",
@@ -141,7 +156,8 @@
         "musician": "George Gershwin",
         "changelog": "https://codex.wordpress.org/Changelog/3.2",
         "blog": "http://wordpress.org/news/2011/07/gershwin/",
-        "image": "George-Gershwin.jpg"
+        "image": "George-Gershwin.jpg",
+        "spotify": ""
     },
     {
         "version": "3.3",
@@ -150,7 +166,8 @@
         "musician": "Sonny Stitt",
         "changelog": "https://codex.wordpress.org/Changelog/3.3",
         "blog": "http://wordpress.org/news/2011/12/sonny/",
-        "image": "Sonny-Stitt.jpg"
+        "image": "Sonny-Stitt.jpg",
+        "spotify": ""
     },
     {
         "version": "3.4",
@@ -159,7 +176,8 @@
         "musician": "Grant Green",
         "changelog": "https://codex.wordpress.org/Changelog/3.4",
         "blog": "http://wordpress.org/news/2012/06/green/",
-        "image": "Grant-Green.jpg"
+        "image": "Grant-Green.jpg",
+        "spotify": ""
     },
     {
         "version": "3.5",
@@ -168,7 +186,8 @@
         "musician": "Elvin Jones",
         "changelog": "https://codex.wordpress.org/Changelog/3.5",
         "blog": "http://wordpress.org/news/2012/12/elvin/",
-        "image": "Elvin-Jones.jpg"
+        "image": "Elvin-Jones.jpg",
+        "spotify": ""
     },
     {
         "version": "3.6",
@@ -177,7 +196,8 @@
         "musician": "Oscar Peterson",
         "changelog": "https://codex.wordpress.org/Changelog/3.6",
         "blog": "http://wordpress.org/news/2013/08/oscar/",
-        "image": "Oscar-Peterson.jpg"
+        "image": "Oscar-Peterson.jpg",
+        "spotify": ""
     },
     {
         "version": "3.7",
@@ -186,7 +206,8 @@
         "musician": "Count Basie",
         "changelog": "https://codex.wordpress.org/Changelog/3.7",
         "blog": "http://wordpress.org/news/2013/10/basie/",
-        "image": "Count-Basie.jpg"
+        "image": "Count-Basie.jpg",
+        "spotify": ""
     },
     {
         "version": "3.8",
@@ -195,7 +216,8 @@
         "musician": "Charlie Parker",
         "changelog": "https://codex.wordpress.org/Changelog/3.8",
         "blog": "http://wordpress.org/news/2013/12/parker/",
-        "image": "Charlie-Parker.jpg"
+        "image": "Charlie-Parker.jpg",
+        "spotify": ""
     },
     {
         "version": "3.9",
@@ -204,7 +226,8 @@
         "musician": "Jimmy Smith",
         "changelog": "https://codex.wordpress.org/Changelog/3.9",
         "blog": "http://wordpress.org/news/2014/04/smith/",
-        "image": "Jimmy-Smith.jpg"
+        "image": "Jimmy-Smith.jpg",
+        "spotify": ""
     },
     {
         "version": "4.0",
@@ -213,7 +236,8 @@
         "musician": "Benny Goodman",
         "changelog": "https://codex.wordpress.org/Changelog/4.0",
         "blog": "http://wordpress.org/news/2014/09/benny/",
-        "image": "Benny-Goodman.jpg"
+        "image": "Benny-Goodman.jpg",
+        "spotify": ""
     },
     {
         "version": "4.1",
@@ -222,7 +246,8 @@
         "musician": "Dinah Washington",
         "changelog": "https://codex.wordpress.org/Changelog/4.1",
         "blog": "http://wordpress.org/news/2014/12/dinah/",
-        "image": "Dinah-Washington.jpg"
+        "image": "Dinah-Washington.jpg",
+        "spotify": ""
     },
     {
         "version": "4.2",
@@ -231,6 +256,17 @@
         "musician": "Bud Powell",
         "changelog": "https://codex.wordpress.org/index.php?title=Changelog/4.2&action=edit&redlink=1",
         "blog": "http://wordpress.org/news/2015/04/powell/",
-        "image": "Bud-Powell.jpg"
+        "image": "Bud-Powell.jpg",
+        "spotify": ""
+    },
+    {
+        "version": "4.3",
+        "link": "https://codex.wordpress.org/Version_4.3",
+        "date": "August 18, 2015",
+        "musician": "Billie Holiday",
+        "changelog": "https://codex.wordpress.org/index.php?title=Changelog/4.3&action=edit&redlink=1",
+        "blog": "https://wordpress.org/news/2015/08/billie/",
+        "image": "Billie-Holiday.jpg",
+        "spotify": ""
     }
 ]
